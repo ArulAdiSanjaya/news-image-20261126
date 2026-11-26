@@ -16,4 +16,4 @@ Regenerate the image from scratch with `python3 render.py entry.png` (requires P
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261126) · AI agents build software for cash rewards</sub>
